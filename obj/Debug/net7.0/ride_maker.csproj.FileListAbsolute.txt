@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\bin\Debug\net7.0\ride_maker.exe
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\bin\Debug\net7.0\ride_maker.deps.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\bin\Debug\net7.0\ride_maker.runtimeconfig.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\bin\Debug\net7.0\ride_maker.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\bin\Debug\net7.0\ride_maker.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\refint\ride_maker.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ride_maker.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\ride_maker\obj\Debug\net7.0\ref\ride_maker.dll
